@@ -1,0 +1,34 @@
+{
+  "name": "drop",
+  "version": "0.3.3",
+  "homepage": "https://github.com/HubSpot/drop",
+  "authors": [
+    "Adam Schwartz <aschwartz@hubspot.com>",
+    "Zack Bloom <zbloom@hubspot.com>"
+  ],
+  "description": "Element containers for Tether",
+  "keywords": [
+    "dropdown",
+    "tether"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tether": "0.3.5"
+  },
+  "_release": "0.3.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.3.3",
+    "commit": "d9eb0816a0a5b621ea83a7e796c5f6c5e9fff1ff"
+  },
+  "_source": "git://github.com/HubSpot/drop.git",
+  "_target": "~0.3.3",
+  "_originalSource": "drop"
+}
